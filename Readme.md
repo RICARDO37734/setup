@@ -1,6 +1,6 @@
-publico alvo homens 14 a 40 e mulheres 14 a 35
-opçoes de escolha - componetes de pc e pc pronto
- caracteristicas principais 
+Público alvo homens 14 a 40 e mulheres 14 a 35
+Opções de escolha - componetes de pc e pc pronto
+Características principais 
 redes sociais
 carrinho de compras e favoritos
 ideias de funcionalidades 
