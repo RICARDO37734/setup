@@ -1,8 +1,11 @@
-Público alvo homens 14 a 40 e mulheres 14 a 35
-Opções de escolha - componetes de pc e pc pronto
-Características principais 
-redes sociais
-carrinho de compras e favoritos
-ideias de funcionalidades 
-escolha de peças 
-objetivo - oferecer um adendimento baseado no que o cliente quer 
+Site de vendas de peças e componentes de pc
+Público alvo homens de 14 a 40 anos e mulheres de 14 a 35 anos
+Características principais do site
+Redes sociais
+Carrinho de compras e favoritos
+Ideias de funcionalidades
+Escolha de peças
+Objetivo - Oferecer um serviço de qualidada para o cliente que busca peças e componentes de pc
+
+
+
